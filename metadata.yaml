@@ -1,0 +1,39 @@
+_repo: The-Best-Short-Stories-of-1915And-the-Yearbook-of-the-American-Short-Story_20303
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: O'Brien, Edward Joseph Harrington
+    alias: Harrington, Joseph F.
+    birthdate: 1890
+    deathdate: 1941
+    gutenberg_agent_id: '3022'
+    url: http://www.gutenberg.org/2009/agents/3022
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Joseph_Harrington_O'Brien
+description: ''
+gutenberg_issued: '2007-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20303'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American fiction -- 20th century'
+- !lcc 'PS'
+- !lcsh 'Short stories, American'
+tableOfContents: The water-hole / Maxwell Struthers Burt -- The wake / Donn Byrne
+  -- Chautonville / Will Levington Comfort -- La dernière mobilisation / W.A. Dwiggins
+  -- The citizen / James Francis Dwyer -- Whose dog? / Frances Gregg -- Life / Ben
+  Hecht -- T.B. / Fannie Hurst -- Mr. Eberdeen's house / Arthur Johnson -- Vengeance
+  is mine / Virgil Jordan -- The weaver who clad the summer / Harris Merton Lyon --
+  -- Heart of youth / Walter J. Muilenburg -- The end of the path / Newbold Noyes
+  -- The whale and the grasshopper / Seumas Obrien -- In Berlin / Mary Boyle O'Reilly
+  -- The waiting years / Katharine Metcalf Roof -- Zelig / Benjamin Rosenblatt --
+  The survivors / Elsie Singmaster -- The yellow cat / Wilbur Daniel Steele -- The
+  bounty-jumper / Mary Synon.
+title: The Best Short Stories of 1915, and the Yearbook of the American Short Story
+url: http://www.gutenberg.org/ebooks/20303
